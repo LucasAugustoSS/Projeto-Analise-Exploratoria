@@ -7,6 +7,20 @@ Este projeto faz a análise exploratória e implementação de modelos de regres
 Alunos: [Lucas Augusto](https://github.com/LucasAugustoSS) e [Renato Xavier](https://github.com/aluno-renato)<br>
 Dataset utilizado: https://archive.ics.uci.edu/dataset/186/wine+quality
 
+## Requisitos
+
+```bash
+Python 3.9+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+ucimlrepo
+```
+
 ## Como executar
 ### 1. Clone o repositório
 ```bash
